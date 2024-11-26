@@ -57,7 +57,7 @@ Reward individuals and communities for peace-building initiatives through tokeni
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-repo/blockchain-for-peace.git
+   git clone https://github.com/TuringTechXE/blockchain-for-peace.git
    cd blockchain-for-peace
    ```
 
